@@ -2,7 +2,7 @@
 
 # Overview
 
-My Personal Site is hosted on AWS.  Please take a look: http://3.143.202.149/  I'm open to suggestions for improvements.  
+My Personal Site is hosted on AWS.  It has links to each of the 4 projects that I've hosted there locally as well.  Please take a look: http://3.143.202.149/  I'm very open to suggestions for improvements.  
 
 # Technologies Used
 
